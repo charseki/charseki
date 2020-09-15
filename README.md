@@ -1,7 +1,5 @@
-[![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](http://www.chenshengkai.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](http://www.chenshengkai.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://www.chenshengkai.com)
-## Hi there, I'm [Shengkai Chen!](http://www.chenshengkai.com) 👋👋👋
+## ABOUT ME
+### Hi there, I'm [Shengkai Chen!](http://www.chenshengkai.com) 👋👋👋
 
 <a href="https://github.com/charseki">
   <img align="left" alt="Shengkai Chen | github" width="20px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/github.svg" />
@@ -19,12 +17,13 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 - 🌱 I’m currently learning Python & Vuejs
 - 💬 Ask me about anything [here](https://github.com/charseki/charseki/issues) 
 <br/>
+
+[![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](http://www.chenshengkai.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](http://www.chenshengkai.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://www.chenshengkai.com)
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charseki&show_icons=true&include_all_commits=true&theme=radical" 
   alt="Charseki's github stats" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charseki&layout=compact&theme=radical" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=API_Auto_Test&theme=radical" />
@@ -32,7 +31,6 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=DZFP_Api_AutoTest&theme=radical" />
 </a>
-<br/>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=get_rsa_pwd&theme=radical" />
 </a>
