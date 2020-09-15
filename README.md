@@ -2,13 +2,13 @@
 ### Hi there, I'm [Shengkai Chen!](http://www.chenshengkai.com) 👋👋👋
 
 <a href="https://github.com/charseki">
-  <img align="left" alt="Shengkai Chen | github" width="20px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/github.svg" />
+  <img align="left" alt="Shengkai Chen | github" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/github.svg" />
 </a>
 <a href="https://www.cnblogs.com/chenshengkai/">
-  <img align="left" alt="Shengkai Chen | cnblogs" width="20px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/cnblogs.svg" />
+  <img align="left" alt="Shengkai Chen | cnblogs" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/cnblogs.svg" />
 </a>
 <a href="https://weibo.com/u/3264687187?source=blog">
-  <img align="left" alt="Shengkai Chen | sina" width="20px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/sina.svg" />
+  <img align="left" alt="Shengkai Chen | sina" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/sina.svg" />
 </a>
 <br/>
 Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
@@ -21,6 +21,7 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 [![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](http://www.chenshengkai.com)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](http://www.chenshengkai.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://www.chenshengkai.com)
+<br/>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charseki&show_icons=true&include_all_commits=true&theme=radical" 
   alt="Charseki's github stats" />
