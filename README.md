@@ -23,13 +23,13 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 - 🌱 I’m currently learning Python & Vuejs
 - 💬 Ask me about anything [here](https://github.com/charseki/charseki/issues) 
 
+<a href="http://www.chenshengkai.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charseki&layout=compact&theme=radical" />
+</a>
 <br/>
 <a href="http://www.chenshengkai.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charseki&show_icons=true&include_all_commits=true&theme=radical" 
   alt="Charseki's github stats" />
-</a>
-<a href="http://www.chenshengkai.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charseki&layout=compact&theme=radical" />
 </a>
 <br>
 <a href="http://www.chenshengkai.com">
@@ -41,4 +41,3 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 
 # 每日壁纸
 [![每日壁纸](https://cn.bing.com/th?id=OHR.LifeguardEntrance_ZH-CN7394984988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](http://www.chenshengkai.com)
-[![charseki](https://raw.githubusercontent.com/charseki/charseki/master/assets/logo.svg)](http://www.chenshengkai.com)
