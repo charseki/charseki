@@ -32,27 +32,4 @@ class Source (object):
 
 
 if __name__ == '__main__':
-    obj = Source()
-    urllib.request.urlretrieve(obj.getSource(),root / ('img/'+str(datetime.date.today())+'.png'))
-    img = '[![每日壁纸](' + obj.getSource() + ')](https://www.jixiaokang.com)'
-    readme = root / "README.md"
-    readme_contents = open(readme, 'w')
-    md = "\n".join(
-        [
-          '[![xkloveme](https://raw.githubusercontent.com/xkloveme/xkloveme/master/logo.svg)](https://www.jixiaokang.com)',
-          '[![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](https://www.jixiaokang.com)  '
-          '[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://www.jixiaokang.com)  '
-          '[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.jixiaokang.com)',
-          '[![xkloveme](https://raw.githubusercontent.com/xkloveme/xkloveme/master/slogan.svg)](https://www.jixiaokang.com)',
-          "# 每日壁纸",
-          img,
-          '# 推荐链接🔗',
-          '> [项目说明](https://github.com/xkloveme/xkloveme/blob/master/PROJECT.md)如果想展示您的主页🔗请`pr`,如有喜欢请关注\n',
-        ]
-    )
-    link = root / "LINK.md"
-    link_contents = open(link, 'r')
-    link_list = link_contents.readlines()
-    readme_contents.write(md)
-    readme_contents.writelines(link_list)
-    readme_contents.close()
+    pass
