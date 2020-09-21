@@ -32,12 +32,6 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=DZFP_Api_AutoTest&theme=radical" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=get_rsa_pwd&theme=radical" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=JianZhi_Offer&theme=radical" />
-</a>
 
 # 每日壁纸
 [![每日壁纸](https://cn.bing.com/th?id=OHR.LifeguardEntrance_ZH-CN7394984988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](http://www.chenshengkai.com)
