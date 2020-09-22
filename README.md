@@ -32,7 +32,7 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 </a>
 <br/>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=DZFP_Api_AutoTest&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=LemonCK&theme=radical" />
 </a>
 
 # 每日壁纸
