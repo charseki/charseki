@@ -27,11 +27,11 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
   alt="Charseki's github stats" />
 </a>
 <br/>
-<a>
+<a href="https://github.com/charseki/API_Auto_Test">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=API_Auto_Test&theme=radical" />
 </a>
 <br/>
-<a>
+<a href="https://github.com/charseki/LemonCK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=LemonCK&theme=radical" />
 </a>
 
