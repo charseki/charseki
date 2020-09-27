@@ -13,7 +13,7 @@
 <br/>
 Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 
-- 🔭 I’m currently working on my project [DZFP_Api_AutoTest](https://github.com/charseki/DZFP_Api_AutoTest)
+- 🔭 I’m currently working on my project [LemonCK](https://github.com/charseki/LemonCK)
 - 🌱 I’m currently learning Python & Vuejs
 - 💬 Ask me about anything [here](https://github.com/charseki/charseki/issues) 
 <br/>
