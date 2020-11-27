@@ -34,6 +34,3 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 <a href="https://github.com/charseki/LemonCK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=LemonCK&theme=radical" />
 </a>
-
-# 每日壁纸
-[![每日壁纸](https://cn.bing.com/th?id=OHR.LifeguardEntrance_ZH-CN7394984988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)](http://www.chenshengkai.com)
