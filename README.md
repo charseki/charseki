@@ -13,7 +13,6 @@
 <br/>
 Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 
-- 🔭 I’m currently working on my project [LemonCK](https://github.com/charseki/LemonCK)
 - 🌱 I’m currently learning Python & Vuejs
 - 💬 Ask me about anything [here](https://github.com/charseki/charseki/issues) 
 <br/>
@@ -31,6 +30,3 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=API_Auto_Test&theme=radical" />
 </a>
 <br/>
-<a href="https://github.com/charseki/LemonCK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charseki&repo=LemonCK&theme=radical" />
-</a>
