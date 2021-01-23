@@ -1,5 +1,5 @@
 ## ABOUT ME
-### Hi there, I'm [charseki.chen](http://www.chenshengkai.com) 👋👋👋
+### Hi there, I'm [Charseki.Chen](http://www.chenshengkai.com) 👋👋👋
 ![](https://img.shields.io/badge/TechStack-Linux%20%7C%20Python%20%7C%20JavaScript%20%7C%20Shell-blue?style=plastic&logo=appveyor)
 <hr>
 <a>
