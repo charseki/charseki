@@ -12,8 +12,6 @@
   <img align="left" alt="Shengkai Chen | sina" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/sina.svg" />
 </a>
 <br/>
-Hello, I'm Charseki.chen, a Software-tester from Ningbo.
-<br/>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charseki&show_icons=true&include_all_commits=true&theme=radical" 
   alt="Charseki's github stats" />
