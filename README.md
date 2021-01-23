@@ -2,7 +2,7 @@
 ### Hi there, I'm [charseki.chen](http://www.chenshengkai.com) 👋👋👋
 
 <a href="https://github.com/charseki">
-  <img align="left" alt="Shengkai Chen | github" width="21px" src="https://img.shields.io/badge/TechStack-Linux%20%7C%20Python%20%7C%20JavaScript%20%7C%20Shell-blue?style=plastic&logo=appveyor" />
+  <img align="left" alt="Shengkai Chen | github" width="21px" src="https://github.com/charseki/charseki" />
 </a>
 <a href="https://www.cnblogs.com/chenshengkai/">
   <img align="left" alt="Shengkai Chen | cnblogs" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/cnblogs.svg" />
@@ -17,7 +17,7 @@ Hi, I'm Shengkai Chen, a passionate self-taught Software tester from China.
 - 💬 Ask me about anything [here](https://github.com/charseki/charseki/issues) 
 <br/>
 
-[![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](http://www.chenshengkai.com)
+![](https://img.shields.io/badge/TechStack-Linux%20%7C%20Python%20%7C%20JavaScript%20%7C%20Shell-blue?style=plastic&logo=appveyor)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](http://www.chenshengkai.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://www.chenshengkai.com)
 <br/>
