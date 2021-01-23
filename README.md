@@ -1,5 +1,5 @@
 ## ABOUT ME
-### Hi there, I'm [charseki.chen](http://www.chenshengkai.com) 👋👋👋
+### Hi there, I'm [charseki.chen](https://www.chenshengkai.com) 👋👋👋
 
 <a href="https://github.com/charseki">
   <img align="left" alt="Shengkai Chen | github" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/github.svg" />
@@ -11,7 +11,6 @@
   <img align="left" alt="Shengkai Chen | sina" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/sina.svg" />
 </a>
 <br/>
-Hello, I'm Charseki.chen, a Software-tester from Ningbo.
 
 ![](https://img.shields.io/badge/TechStack-Linux%20%7C%20Python%20%7C%20JavaScript%20%7C%20Shell-blue?style=plastic&logo=appveyor)
 ![](https://img.shields.io/badge/Age-%20%7C%2026-childrengreen?style=plastic&logo=appveyor)
