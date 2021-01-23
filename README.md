@@ -2,7 +2,7 @@
 ### Hi there, I'm [charseki.chen](http://www.chenshengkai.com) 👋👋👋
 
 <a href="https://github.com/charseki">
-  <img align="left" alt="Shengkai Chen | github" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/github.svg" />
+  <img align="left" alt="Shengkai Chen | github" width="21px" src="https://img.shields.io/badge/TechStack-Linux%20%7C%20Python%20%7C%20JavaScript%20%7C%20Shell-blue?style=plastic&logo=appveyor" />
 </a>
 <a href="https://www.cnblogs.com/chenshengkai/">
   <img align="left" alt="Shengkai Chen | cnblogs" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/cnblogs.svg" />
