@@ -1,7 +1,7 @@
 ## ABOUT ME
 ### Hi there, I'm [charseki.chen](http://www.chenshengkai.com) 👋👋👋
 ![](https://img.shields.io/badge/TechStack-Linux%20%7C%20Python%20%7C%20JavaScript%20%7C%20Shell-blue?style=plastic&logo=appveyor)
-![](https://img.shields.io/badge/Profession-%20%7C%20Software-Tester-childrengreen?style=plastic&logo=appveyor)
+<hr>
 <a href="https://github.com/charseki">
   <img align="left" alt="Shengkai Chen | github" width="21px" src="https://raw.githubusercontent.com/charseki/charseki/master/assets/github.svg" />
 </a>
